@@ -17,3 +17,7 @@ Criando uma aplicação utilizando Typescript.
 * HTML
 * CSS
 * Typescript
+
+## Utilização ##
+
+Rode no terminal o comando: `npm run server`
